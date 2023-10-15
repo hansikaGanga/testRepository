@@ -2,5 +2,5 @@ git --version
 git status
 git add .
 git status
-git commit -m "my _____ commit"
+git commit -m "_____ commit"
 git push
