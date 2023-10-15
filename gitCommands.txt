@@ -1,0 +1,6 @@
+git --version
+git status
+git add .
+git status
+git commit -m "my _____ commit"
+git push
